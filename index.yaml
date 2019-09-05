@@ -3,17 +3,17 @@ entries:
   helm-chart-test:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-05T10:40:08.006195712Z"
+    created: "2019-09-05T10:45:33.868506683Z"
     description: A Helm chart for Kubernetes
     digest: 57435c8ff99fa14b8d74f64aeddd514ef825fc41a718fe56ac2229d0556944d3
     name: helm-chart-test
     urls:
-    - https://ashwini9860.github.io/helmchart/helm-chart-test-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
   wordpress:
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-09-05T10:40:08.00860617Z"
+    created: "2019-09-05T10:45:33.870994527Z"
     description: Web publishing platform for building blogs and websites.
     digest: aea54c34b6a754b52d917a5221159a3c436d8c0f7a4ccdfde1b1b1565f43ee0c
     engine: gotpl
@@ -34,6 +34,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-wordpress
     urls:
-    - https://ashwini9860.github.io/helmchart/wordpress-7.2.2.tgz
+    - https://mattiaperi.github.io/helm-chart/wordpress-7.2.2.tgz
     version: 7.2.2
-generated: "2019-09-05T10:40:08.005238905Z"
+generated: "2019-09-05T10:45:33.867819716Z"
